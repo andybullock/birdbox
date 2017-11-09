@@ -1,0 +1,1 @@
+birdbox project using a Raspberry Pi, the RPi Camera application, the Raspberry Pi camera (PiNoir) and some sensors.
